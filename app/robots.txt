@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://ngentotibukandung.pages.dev/sitemap.xml
